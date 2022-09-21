@@ -5,7 +5,8 @@ const Navbar = () => {
       <div style={{
           padding: "20px",
           display: "flex",
-          gap:"30px"
+          gap: "30px",
+          fontSize:"30px"
           
     }}>
       <Link to="/">Counter App</Link>
